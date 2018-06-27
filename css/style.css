@@ -1,0 +1,11 @@
+body{
+  margin: 0;
+  padding: 0;
+  font-size: 20px;
+}
+.divimg{
+  width: 600px;
+  background: #9edfe2;
+  padding: 20px 40px;
+  margin: 100px auto;
+}
